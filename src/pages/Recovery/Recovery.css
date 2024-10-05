@@ -1,0 +1,39 @@
+.recovery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.recovery-form {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--bg-color-2);
+    box-shadow: 0 8px 16px var(--shadow);
+    width: 100%;
+    max-width: 400px;
+}
+
+.recovery-form h2 {
+    margin: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.recovery-group {
+    margin: 15px 0;
+}
+
+.recovery-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recovery-info label {
+    margin-bottom: 15px;
+}
+
+.recovery-info span {
+    font-weight: 500;
+}

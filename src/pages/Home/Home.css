@@ -1,0 +1,13 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.home-content {
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    max-width: 800px;
+}
