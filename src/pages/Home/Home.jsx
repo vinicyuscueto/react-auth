@@ -10,7 +10,7 @@ const Home = () => {
         <div className="home-container">
           <div className="home-content">
             <h2>Seja bem-vindo ao Auth!</h2>
-            <p>Auth é uma página de autenticação de usuários, construída com o objetivo de sintetizar conhecimentos em React.js, utilizando Context API e LocalStorage.</p>
+            <p>Auth é uma aplicação Web de autenticação de usuários, construída com o objetivo de sintetizar conhecimentos em React.js, utilizando Context API e LocalStorage.</p>
           </div>
         </div>
       </div>
